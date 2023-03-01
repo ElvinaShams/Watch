@@ -1,0 +1,16 @@
+.nav__right {
+  width: 100px;
+}
+
+.nav__right-list {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+
+.nav__right-item {
+  list-style-type: none;
+}

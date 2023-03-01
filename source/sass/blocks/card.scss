@@ -1,0 +1,28 @@
+.card {
+  width: 370px;
+  padding: 40px;
+  position: relative;
+}
+
+.card__price-value {
+  font-family: $custom-font;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.card__button-info {
+  font-family: $default-font;
+  font-size: 16px;
+  line-height: 21px;
+  background-color: #ffffff;
+  border: none;
+  color: $color-darken-gray;
+}
+
+.card__line-price {
+  position: absolute;
+  bottom: 43px;
+  left: 8px;
+  width: 30px;
+}

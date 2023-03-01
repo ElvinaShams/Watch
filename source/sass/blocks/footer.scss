@@ -1,0 +1,19 @@
+.footer__wrapper {
+  width: 1366px;
+  margin: 0 auto;
+  background: $color-darken-gray;
+  padding: 83px 227px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  color: #ffffff;
+}
+
+.footer-communications {
+  width: 160px;
+  display: inline-block;
+}
+
+.footer__logo {
+  margin-bottom: 20px;
+}

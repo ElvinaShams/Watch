@@ -1,0 +1,16 @@
+.company__title {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.company__info-list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.company__info-item {
+  font-family: $custom-font;
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 15px;
+}

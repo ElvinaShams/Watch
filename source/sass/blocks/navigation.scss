@@ -1,0 +1,12 @@
+.navigation__list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.navigation__link {
+  color: $color-brown;
+  text-decoration: none;
+}

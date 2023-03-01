@@ -1,0 +1,18 @@
+.pagination__number {
+  font-family: $custom-font;
+  display: inline-block;
+  margin: 0 20px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.pagination__right {
+  border: none;
+  background: #ffffff;
+}
+
+.pagination__left {
+  border: none;
+  background: #ffffff;
+}
